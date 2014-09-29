@@ -49,4 +49,8 @@ public class TicketMachine {
         result += "*****************\n";
         return result;
     }
+    public String testeGithub()
+            {
+                return "Meu Teste no Github";
+            }
 }
